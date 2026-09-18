@@ -1,4 +1,4 @@
-# Hi, I'm Dat 👋
+# Hi, I'm 2TDP 👋
 
 Android Developer with 3+ years of experience building and maintaining Android applications using **Kotlin** and **Java**.
 
@@ -24,20 +24,6 @@ I have worked on production Android apps involving feature development, refactor
 - Participate in code reviews and technical discussions.
 - Work with PMs and teammates on requirement analysis, task breakdown, and estimation.
 - Support teammates in resolving implementation issues.
-
-## 📌 Selected Projects
-
-### GameBooster
-Android utility project focused on improving the gaming experience on mobile devices.
-
-### Alarm Clock
-Android app with alarm scheduling, timer, stopwatch, world clock, notifications, and background processing.
-
-### Fake Call
-Android prank call application with simulated incoming call experiences.
-
-### RemiTextArt
-Android image editing project involving Custom View and visual editing features.
 
 ## 🌱 Currently Focusing On
 
